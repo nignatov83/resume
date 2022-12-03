@@ -1,0 +1,168 @@
+name,ring,quadrant,isNew,description
+Confluence,adopt,tools,TRUE,Confluence
+Drawit.io,adopt,tools,TRUE,Drawit.io
+Grafana,assess,tools,TRUE,Grafana
+Artifactory,assess,tools,TRUE,Artifactory
+Nexus,adopt,tools,TRUE,Nexus
+Visio,adopt,tools,TRUE,Visio
+ELK,trial,tools,TRUE,ELK
+Reporting Service,hold,tools,TRUE,Reporting Service
+MongoDb,trial,tools,TRUE,MongoDb
+jMeter,trial,tools,TRUE,jMeter
+WireMock,assess,tools,TRUE,WireMock
+Selenium Grid,hold,tools,TRUE,Selenium Grid
+Selenuim,hold,tools,TRUE,Selenuim
+JIRA,trial,tools,TRUE,JIRA
+TFS,adopt,tools,TRUE,TFS
+BAMBOO,hold,tools,TRUE,BAMBOO
+Vault,trial,tools,TRUE,Vault
+Postman,adopt,tools,TRUE,Postman
+Let's Encrypt,assess,tools,TRUE,Let's Encrypt
+Swagger,adopt,tools,TRUE,Swagger
+GitHub,trial,tools,TRUE,GitHub
+Git,adopt,tools,TRUE,Git
+Rider,adopt,tools,TRUE,Rider
+Visual Studio,adopt,tools,TRUE,Visual Studio
+Dbeaver,trial,tools,TRUE,Dbeaver
+Miro,trial,tools,TRUE,Miro
+Webpack,assess,tools,TRUE,Webpack
+Fedora,trial,tools,TRUE,Fedora
+Ubuntu,assess,tools,TRUE,Ubuntu
+Zabbix,assess,tools,TRUE,Zabbix
+Dynatrace,hold,tools,TRUE,Dynatrace
+Kibana,trial,tools,TRUE,Kibana
+MySQL,hold,tools,TRUE,MySQL
+MariaDb,assess,tools,TRUE,MariaDb
+Oracle,hold,tools,TRUE,Oracle
+MS SQL,adopt,tools,TRUE,MS SQL
+LDAP,adopt,tools,TRUE,LDAP
+AD,adopt,tools,TRUE,AD
+CosmosDB,assess,tools,TRUE,CosmosDB
+Debezium,trial,tools,TRUE,Debezium
+CDC,trial,tools,TRUE,CDC
+PostgreSQL,adopt,tools,TRUE,PostgreSQL
+PgAdmin,adopt,tools,TRUE,PgAdmin
+PgPool,assess,tools,TRUE,PgPool
+Nginx,adopt,tools,TRUE,Nginx
+WinCSP,assess,tools,TRUE,WinCSP
+Wireshark,trial,tools,TRUE,Wireshark
+IIS,adopt,tools,TRUE,IIS
+ISA Server,hold,tools,TRUE,ISA Server
+Camunda,assess,tools,TRUE,Camunda
+Failover Clustering,hold,tools,TRUE,Failover Clustering
+Web API,adopt,languages & frameworks,TRUE,Web API
+Couchbase,assess,tools,TRUE,Couchbase
+1C-Bitrix,hold,languages & frameworks,TRUE,1C-Bitrix
+1C,hold,languages & frameworks,TRUE,1C
+BackboneJS,hold,languages & frameworks,TRUE,BackboneJS
+HTTP2,assess,languages & frameworks,TRUE,HTTP2
+React.js,trial,languages & frameworks,TRUE,React.js
+Redux,assess,languages & frameworks,TRUE,Redux
+Spring Framework,assess,languages & frameworks,TRUE,Spring Framework
+Spring Boot,assess,languages & frameworks,TRUE,Spring Boot
+MarionetteJS,hold,languages & frameworks,TRUE,MarionetteJS
+IonicFramework,hold,languages & frameworks,TRUE,IonicFramework
+XML,adopt,languages & frameworks,TRUE,XML
+HTML,adopt,languages & frameworks,TRUE,HTML
+LESS,assess,languages & frameworks,TRUE,LESS
+SASS,hold,languages & frameworks,TRUE,SASS
+CSS,adopt,languages & frameworks,TRUE,CSS
+AngularJS,trial,languages & frameworks,TRUE,AngularJS
+JavaScript,adopt,languages & frameworks,TRUE,JavaScript
+ActionScript,hold,languages & frameworks,TRUE,ActionScript
+Ansible,hold,languages & frameworks,TRUE,Ansible
+Ajax,hold,languages & frameworks,TRUE,Ajax
+C#,adopt,languages & frameworks,TRUE,C#
+PHP,hold,languages & frameworks,TRUE,PHP
+React Native,assess,languages & frameworks,TRUE,React Native
+PERL,hold,languages & frameworks,TRUE,PERL
+BPMN,adopt,languages & frameworks,TRUE,BPMN
+ECMAScript 2017,assess,languages & frameworks,TRUE,ECMAScript 2017
+UML,adopt,languages & frameworks,TRUE,UML
+GraphQL,assess,languages & frameworks,TRUE,GraphQL
+ERD,adopt,languages & frameworks,TRUE,ERD
+Java,trial,languages & frameworks,TRUE,Java
+Entity Framework,adopt,languages & frameworks,TRUE,Entity Framework
+EF Migrations,adopt,languages & frameworks,TRUE,EF Migrations
+Unit,trial,languages & frameworks,TRUE,Unit
+NodeJS,trial,languages & frameworks,TRUE,NodeJS
+Electron,assess,languages & frameworks,TRUE,Electron
+Puppeteer,assess,languages & frameworks,TRUE,Puppeteer
+nlog,hold,languages & frameworks,TRUE,nlog
+Scrapy,assess,languages & frameworks,TRUE,Scrapy
+OWIN,hold,languages & frameworks,TRUE,OWIN
+Autofac,hold,languages & frameworks,TRUE,Autofac
+Zend Framework,hold,languages & frameworks,TRUE,Zend Framework
+Quartz,hold,languages & frameworks,TRUE,Quartz
+log4net,hold,languages & frameworks,TRUE,log4net
+AutoMapper,adopt,languages & frameworks,TRUE,AutoMapper
+Serilog,adopt,languages & frameworks,TRUE,Serilog
+Ninject,hold,languages & frameworks,TRUE,Ninject
+oAuth,adopt,languages & frameworks,TRUE,oAuth
+Vue.js,assess,languages & frameworks,TRUE,Vue.js
+WebRTC,assess,languages & frameworks,TRUE,WebRTC
+WebSocket,trial,languages & frameworks,TRUE,WebSocket
+TSQL,adopt,languages & frameworks,TRUE,TSQL
+Docker,adopt,platforms,TRUE,Docker
+Docker Compose,adopt,platforms,TRUE,Docker Compose
+Linux,adopt,platforms,TRUE,Linux
+Keycloak,trial,platforms,TRUE,Keycloak
+IdentityServer,assess,platforms,TRUE,IdentityServer
+MS Azure,trial,platforms,TRUE,MS Azure
+Kubernetes,adopt,platforms,TRUE,Kubernetes
+Yandex Cloud,assess,platforms,TRUE,Yandex Cloud
+WPF,hold,platforms,TRUE,WPF
+WinForms,hold,platforms,TRUE,WinForms
+WCF,trial,platforms,TRUE,WCF
+Bootstrap,hold,platforms,TRUE,Bootstrap
+Ant.Design,assess,platforms,TRUE,Ant.Design
+Material.Design,assess,platforms,TRUE,Material.Design
+.NET Core,assess,platforms,TRUE,.NET Core
+APIGee,assess,platforms,TRUE,APIGee
+.NET Framework,adopt,platforms,TRUE,.NET Framework
+Razor,hold,platforms,TRUE,Razor
+ASP.NET MVC,adopt,platforms,TRUE,ASP.NET MVC
+ASP.NET WebForms,adopt,platforms,TRUE,ASP.NET WebForms
+Electron,assess,platforms,TRUE,Electron
+SOAP,adopt,platforms,TRUE,SOAP
+MS CRM,adopt,platforms,TRUE,MS CRM
+Sharepoint,hold,platforms,TRUE,Sharepoint
+MOSASO,hold,platforms,TRUE,MOSASO
+Redis,adopt,platforms,TRUE,Redis
+GeoJSON,hold,platforms,TRUE,GeoJSON
+JSON,adopt,platforms,TRUE,JSON
+protobuf,assess,platforms,TRUE,protobuf
+Cloudinary CDN,adopt,platforms,TRUE,Cloudinary CDN
+OpenShift,hold,platforms,TRUE,OpenShift
+AXAPTA,trial,platforms,TRUE,AXAPTA
+Yandex Map API,adopt,platforms,TRUE,Yandex Map API
+TensorFlow,assess,platforms,TRUE,TensorFlow
+OpenCV,assess,platforms,TRUE,OpenCV
+ZoneMinder,assess,platforms,TRUE,ZoneMinder
+DbGeography,hold,platforms,TRUE,DbGeography
+OData,adopt,platforms,TRUE,OData
+TDD,adopt,techniques,TRUE,TDD
+TAP.NET,adopt,techniques,TRUE,TAP.NET
+Threat Modeling,trial,techniques,TRUE,Threat Modeling
+REST,adopt,techniques,TRUE,REST
+Kafka,adopt,techniques,TRUE,Kafka
+Agile,adopt,techniques,TRUE,Agile
+Kanban,adopt,techniques,TRUE,Kanban
+Scrum,adopt,techniques,TRUE,Scrum
+Reactive architectures,assess,techniques,TRUE,Reactive architectures
+Serverless architecture,trial,techniques,TRUE,Serverless architecture
+DevExpress,adopt,techniques,TRUE,DevExpress
+DevExtreme,assess,techniques,TRUE,DevExtreme
+Waterfall,adopt,techniques,TRUE,Waterfall
+gRPC,assess,techniques,TRUE,gRPC
+FTP/SFTP,adopt,techniques,TRUE,FTP/SFTP
+RabbitMQ,adopt,techniques,TRUE,RabbitMQ
+Micro frontends,trial,techniques,TRUE,Micro frontends
+Micro services,adopt,techniques,TRUE,Micro services
+ClickHouse,assess,techniques,TRUE,ClickHouse
+ElasticSearch,assess,techniques,TRUE,ElasticSearch
+CI\CD,adopt,techniques,TRUE,CI\CD
+DWH,assess,techniques,TRUE,DWH
+RMS,assess,techniques,TRUE,RMS
+RDM,assess,techniques,TRUE,RDM
+JMS,assess,techniques,TRUE,JMS
