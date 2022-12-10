@@ -1,95 +1,3 @@
-name,ring,quadrant,isNew,description
-Artifactory,Владею,tools,TRUE,Artifactory
-Nexus,Владею,tools,TRUE,Nexus
-Visio,Владею,tools,TRUE,Visio
-ELK,Владею,tools,TRUE,ELK
-MongoDb,Владею,tools,TRUE,MongoDb
-jMeter,Владею,tools,TRUE,jMeter
-Let's Encrypt,Владею,tools,TRUE,Let's Encrypt
-Webpack,Владею,tools,TRUE,Webpack
-Dynatrace,Владею,tools,TRUE,Dynatrace
-MySQL,Владею,tools,TRUE,MySQL
-MariaDb,Владею,tools,TRUE,MariaDb
-LDAP,Владею,tools,TRUE,LDAP
-AD,Владею,tools,TRUE,AD
-CDC,Владею,tools,TRUE,CDC
-Wireshark,Владею,tools,TRUE,Wireshark
-Failover Clustering,Владею,tools,TRUE,Failover Clustering
-Couchbase,Владею,tools,TRUE,Couchbase
-HTTP2,Владею,languages & frameworks,TRUE,HTTP2
-IonicFramework,Владею,languages & frameworks,TRUE,IonicFramework
-XML,Владею,languages & frameworks,TRUE,XML
-HTML,Владею,languages & frameworks,TRUE,HTML
-CSS,Владею,languages & frameworks,TRUE,CSS
-Ansible,Владею,languages & frameworks,TRUE,Ansible
-Ajax,Владею,languages & frameworks,TRUE,Ajax
-Electron,Владею,languages & frameworks,TRUE,Electron
-Puppeteer,Владею,languages & frameworks,TRUE,Puppeteer
-OWIN,Владею,languages & frameworks,TRUE,OWIN
-Autofac,Владею,languages & frameworks,TRUE,Autofac
-AutoMapper,Владею,languages & frameworks,TRUE,AutoMapper
-MS Azure,Владею,platforms,TRUE,MS Azure
-Yandex Cloud,Владею,platforms,TRUE,Yandex Cloud
-WCF,Владею,platforms,TRUE,WCF
-GeoJSON,Владею,platforms,TRUE,GeoJSON
-AXAPTA,Владею,platforms,TRUE,AXAPTA
-Yandex Map API,Владею,platforms,TRUE,Yandex Map API
-OpenCV,Владею,platforms,TRUE,OpenCV
-TDD,Владею,techniques,TRUE,TDD
-DevExtreme,Владею,techniques,TRUE,DevExtreme
-Waterfall,Владею,techniques,TRUE,Waterfall
-FTP/SFTP,Владею,techniques,TRUE,FTP/SFTP
-ClickHouse,Владею,techniques,TRUE,ClickHouse
-DWH,Владею,techniques,TRUE,DWH
-Reporting Service,Забыл,tools,TRUE,Reporting Service
-Selenium Grid,Забыл,tools,TRUE,Selenium Grid
-Selenuim,Забыл,tools,TRUE,Selenuim
-BAMBOO,Забыл,tools,TRUE,BAMBOO
-Oracle,Забыл,tools,TRUE,Oracle
-PgPool,Забыл,tools,TRUE,PgPool
-ISA Server,Забыл,tools,TRUE,ISA Server
-Camunda,Забыл,tools,TRUE,Camunda
-1C-Bitrix,Забыл,languages & frameworks,TRUE,1C-Bitrix
-1C,Забыл,languages & frameworks,TRUE,1C
-BackboneJS,Забыл,languages & frameworks,TRUE,BackboneJS
-MarionetteJS,Забыл,languages & frameworks,TRUE,MarionetteJS
-LESS,Забыл,languages & frameworks,TRUE,LESS
-SASS,Забыл,languages & frameworks,TRUE,SASS
-ActionScript,Забыл,languages & frameworks,TRUE,ActionScript
-PHP,Забыл,languages & frameworks,TRUE,PHP
-PERL,Забыл,languages & frameworks,TRUE,PERL
-Scrapy,Забыл,languages & frameworks,TRUE,Scrapy
-Zend Framework,Забыл,languages & frameworks,TRUE,Zend Framework
-Ninject,Забыл,languages & frameworks,TRUE,Ninject
-WPF,Забыл,platforms,TRUE,WPF
-WinForms,Забыл,platforms,TRUE,WinForms
-Bootstrap,Забыл,platforms,TRUE,Bootstrap
-Razor,Забыл,platforms,TRUE,Razor
-Sharepoint,Забыл,platforms,TRUE,Sharepoint
-MOSASO,Забыл,platforms,TRUE,MOSASO
-OpenShift,Забыл,platforms,TRUE,OpenShift
-TensorFlow,Забыл,platforms,TRUE,TensorFlow
-Grafana,Изучаю,tools,TRUE,Grafana
-WireMock,Изучаю,tools,TRUE,WireMock
-Zabbix,Изучаю,tools,TRUE,Zabbix
-CosmosDB,Изучаю,tools,TRUE,CosmosDB
-Debezium,Изучаю,tools,TRUE,Debezium
-React.js,Изучаю,languages & frameworks,TRUE,React.js
-Redux,Изучаю,languages & frameworks,TRUE,Redux
-Spring Framework,Изучаю,languages & frameworks,TRUE,Spring Framework
-Spring Boot,Изучаю,languages & frameworks,TRUE,Spring Boot
-React Native,Изучаю,languages & frameworks,TRUE,React Native
-GraphQL,Изучаю,languages & frameworks,TRUE,GraphQL
-Java,Изучаю,languages & frameworks,TRUE,Java
-NodeJS,Изучаю,languages & frameworks,TRUE,NodeJS
-Vue.js,Изучаю,languages & frameworks,TRUE,Vue.js
-Ant.Design,Изучаю,platforms,TRUE,Ant.Design
-Material.Design,Изучаю,platforms,TRUE,Material.Design
-protobuf,Изучаю,platforms,TRUE,protobuf
-TBD,Изучаю,platforms,TRUE,TBD
-Reactive architectures,Изучаю,techniques,TRUE,Reactive architectures
-gRPC,Изучаю,techniques,TRUE,gRPC
-Micro frontends,Изучаю,techniques,TRUE,Micro frontends
 Confluence,Использую,tools,TRUE,Confluence
 Drawit.io,Использую,tools,TRUE,Drawit.io
 JIRA,Использую,tools,TRUE,JIRA
@@ -164,3 +72,95 @@ CI\CD,Использую,techniques,TRUE,CI\CD
 RMS,Использую,techniques,TRUE,RMS
 RDM,Использую,techniques,TRUE,RDM
 JMS,Использую,techniques,TRUE,JMS
+Grafana,Изучаю,tools,TRUE,Grafana
+WireMock,Изучаю,tools,TRUE,WireMock
+Zabbix,Изучаю,tools,TRUE,Zabbix
+CosmosDB,Изучаю,tools,TRUE,CosmosDB
+Debezium,Изучаю,tools,TRUE,Debezium
+React.js,Изучаю,languages & frameworks,TRUE,React.js
+Redux,Изучаю,languages & frameworks,TRUE,Redux
+Spring Framework,Изучаю,languages & frameworks,TRUE,Spring Framework
+Spring Boot,Изучаю,languages & frameworks,TRUE,Spring Boot
+React Native,Изучаю,languages & frameworks,TRUE,React Native
+GraphQL,Изучаю,languages & frameworks,TRUE,GraphQL
+Java,Изучаю,languages & frameworks,TRUE,Java
+NodeJS,Изучаю,languages & frameworks,TRUE,NodeJS
+Vue.js,Изучаю,languages & frameworks,TRUE,Vue.js
+Ant.Design,Изучаю,platforms,TRUE,Ant.Design
+Material.Design,Изучаю,platforms,TRUE,Material.Design
+protobuf,Изучаю,platforms,TRUE,protobuf
+TBD,Изучаю,platforms,TRUE,TBD
+Reactive architectures,Изучаю,techniques,TRUE,Reactive architectures
+gRPC,Изучаю,techniques,TRUE,gRPC
+Micro frontends,Изучаю,techniques,TRUE,Micro frontends
+Reporting Service,Забыл,tools,TRUE,Reporting Service
+Selenium Grid,Забыл,tools,TRUE,Selenium Grid
+Selenuim,Забыл,tools,TRUE,Selenuim
+BAMBOO,Забыл,tools,TRUE,BAMBOO
+Oracle,Забыл,tools,TRUE,Oracle
+PgPool,Забыл,tools,TRUE,PgPool
+ISA Server,Забыл,tools,TRUE,ISA Server
+Camunda,Забыл,tools,TRUE,Camunda
+1C-Bitrix,Забыл,languages & frameworks,TRUE,1C-Bitrix
+1C,Забыл,languages & frameworks,TRUE,1C
+BackboneJS,Забыл,languages & frameworks,TRUE,BackboneJS
+MarionetteJS,Забыл,languages & frameworks,TRUE,MarionetteJS
+LESS,Забыл,languages & frameworks,TRUE,LESS
+SASS,Забыл,languages & frameworks,TRUE,SASS
+ActionScript,Забыл,languages & frameworks,TRUE,ActionScript
+PHP,Забыл,languages & frameworks,TRUE,PHP
+PERL,Забыл,languages & frameworks,TRUE,PERL
+Scrapy,Забыл,languages & frameworks,TRUE,Scrapy
+Zend Framework,Забыл,languages & frameworks,TRUE,Zend Framework
+Ninject,Забыл,languages & frameworks,TRUE,Ninject
+WPF,Забыл,platforms,TRUE,WPF
+WinForms,Забыл,platforms,TRUE,WinForms
+Bootstrap,Забыл,platforms,TRUE,Bootstrap
+Razor,Забыл,platforms,TRUE,Razor
+Sharepoint,Забыл,platforms,TRUE,Sharepoint
+MOSASO,Забыл,platforms,TRUE,MOSASO
+OpenShift,Забыл,platforms,TRUE,OpenShift
+TensorFlow,Забыл,platforms,TRUE,TensorFlow
+Artifactory,Владею,tools,TRUE,Artifactory
+Nexus,Владею,tools,TRUE,Nexus
+Visio,Владею,tools,TRUE,Visio
+ELK,Владею,tools,TRUE,ELK
+MongoDb,Владею,tools,TRUE,MongoDb
+jMeter,Владею,tools,TRUE,jMeter
+Let's Encrypt,Владею,tools,TRUE,Let's Encrypt
+Webpack,Владею,tools,TRUE,Webpack
+Dynatrace,Владею,tools,TRUE,Dynatrace
+MySQL,Владею,tools,TRUE,MySQL
+MariaDb,Владею,tools,TRUE,MariaDb
+LDAP,Владею,tools,TRUE,LDAP
+AD,Владею,tools,TRUE,AD
+CDC,Владею,tools,TRUE,CDC
+Wireshark,Владею,tools,TRUE,Wireshark
+Failover Clustering,Владею,tools,TRUE,Failover Clustering
+Couchbase,Владею,tools,TRUE,Couchbase
+HTTP2,Владею,languages & frameworks,TRUE,HTTP2
+IonicFramework,Владею,languages & frameworks,TRUE,IonicFramework
+XML,Владею,languages & frameworks,TRUE,XML
+HTML,Владею,languages & frameworks,TRUE,HTML
+CSS,Владею,languages & frameworks,TRUE,CSS
+Ansible,Владею,languages & frameworks,TRUE,Ansible
+Ajax,Владею,languages & frameworks,TRUE,Ajax
+Electron,Владею,languages & frameworks,TRUE,Electron
+Puppeteer,Владею,languages & frameworks,TRUE,Puppeteer
+OWIN,Владею,languages & frameworks,TRUE,OWIN
+Autofac,Владею,languages & frameworks,TRUE,Autofac
+AutoMapper,Владею,languages & frameworks,TRUE,AutoMapper
+MS Azure,Владею,platforms,TRUE,MS Azure
+Yandex Cloud,Владею,platforms,TRUE,Yandex Cloud
+WCF,Владею,platforms,TRUE,WCF
+GeoJSON,Владею,platforms,TRUE,GeoJSON
+AXAPTA,Владею,platforms,TRUE,AXAPTA
+Yandex Map API,Владею,platforms,TRUE,Yandex Map API
+OpenCV,Владею,platforms,TRUE,OpenCV
+TDD,Владею,techniques,TRUE,TDD
+DevExtreme,Владею,techniques,TRUE,DevExtreme
+Waterfall,Владею,techniques,TRUE,Waterfall
+FTP/SFTP,Владею,techniques,TRUE,FTP/SFTP
+ClickHouse,Владею,techniques,TRUE,ClickHouse
+DWH,Владею,techniques,TRUE,DWH
+name,ring,quadrant,isNew,description
