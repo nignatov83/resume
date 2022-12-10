@@ -1,168 +1,166 @@
 name,ring,quadrant,isNew,description
-Confluence,adopt,tools,TRUE,Confluence
-Drawit.io,adopt,tools,TRUE,Drawit.io
-Grafana,assess,tools,TRUE,Grafana
-Artifactory,assess,tools,TRUE,Artifactory
-Nexus,adopt,tools,TRUE,Nexus
-Visio,adopt,tools,TRUE,Visio
-ELK,trial,tools,TRUE,ELK
-Reporting Service,hold,tools,TRUE,Reporting Service
-MongoDb,trial,tools,TRUE,MongoDb
-jMeter,trial,tools,TRUE,jMeter
-WireMock,assess,tools,TRUE,WireMock
-Selenium Grid,hold,tools,TRUE,Selenium Grid
-Selenuim,hold,tools,TRUE,Selenuim
-JIRA,trial,tools,TRUE,JIRA
-TFS,adopt,tools,TRUE,TFS
-BAMBOO,hold,tools,TRUE,BAMBOO
-Vault,trial,tools,TRUE,Vault
-Postman,adopt,tools,TRUE,Postman
-Let's Encrypt,assess,tools,TRUE,Let's Encrypt
-Swagger,adopt,tools,TRUE,Swagger
-GitHub,trial,tools,TRUE,GitHub
-Git,adopt,tools,TRUE,Git
-Rider,adopt,tools,TRUE,Rider
-Visual Studio,adopt,tools,TRUE,Visual Studio
-Dbeaver,trial,tools,TRUE,Dbeaver
-Miro,trial,tools,TRUE,Miro
-Webpack,assess,tools,TRUE,Webpack
-Fedora,trial,tools,TRUE,Fedora
-Ubuntu,assess,tools,TRUE,Ubuntu
-Zabbix,assess,tools,TRUE,Zabbix
-Dynatrace,hold,tools,TRUE,Dynatrace
-Kibana,trial,tools,TRUE,Kibana
-MySQL,hold,tools,TRUE,MySQL
-MariaDb,assess,tools,TRUE,MariaDb
-Oracle,hold,tools,TRUE,Oracle
-MS SQL,adopt,tools,TRUE,MS SQL
-LDAP,adopt,tools,TRUE,LDAP
-AD,adopt,tools,TRUE,AD
-CosmosDB,assess,tools,TRUE,CosmosDB
-Debezium,trial,tools,TRUE,Debezium
-CDC,trial,tools,TRUE,CDC
-PostgreSQL,adopt,tools,TRUE,PostgreSQL
-PgAdmin,adopt,tools,TRUE,PgAdmin
-PgPool,assess,tools,TRUE,PgPool
-Nginx,adopt,tools,TRUE,Nginx
-WinCSP,assess,tools,TRUE,WinCSP
-Wireshark,trial,tools,TRUE,Wireshark
-IIS,adopt,tools,TRUE,IIS
-ISA Server,hold,tools,TRUE,ISA Server
-Camunda,assess,tools,TRUE,Camunda
-Failover Clustering,hold,tools,TRUE,Failover Clustering
-Web API,adopt,languages & frameworks,TRUE,Web API
-Couchbase,assess,tools,TRUE,Couchbase
-1C-Bitrix,hold,languages & frameworks,TRUE,1C-Bitrix
-1C,hold,languages & frameworks,TRUE,1C
-BackboneJS,hold,languages & frameworks,TRUE,BackboneJS
-HTTP2,assess,languages & frameworks,TRUE,HTTP2
-React.js,trial,languages & frameworks,TRUE,React.js
-Redux,assess,languages & frameworks,TRUE,Redux
-Spring Framework,assess,languages & frameworks,TRUE,Spring Framework
-Spring Boot,assess,languages & frameworks,TRUE,Spring Boot
-MarionetteJS,hold,languages & frameworks,TRUE,MarionetteJS
-IonicFramework,hold,languages & frameworks,TRUE,IonicFramework
-XML,adopt,languages & frameworks,TRUE,XML
-HTML,adopt,languages & frameworks,TRUE,HTML
-LESS,assess,languages & frameworks,TRUE,LESS
-SASS,hold,languages & frameworks,TRUE,SASS
-CSS,adopt,languages & frameworks,TRUE,CSS
-AngularJS,trial,languages & frameworks,TRUE,AngularJS
-JavaScript,adopt,languages & frameworks,TRUE,JavaScript
-ActionScript,hold,languages & frameworks,TRUE,ActionScript
-Ansible,hold,languages & frameworks,TRUE,Ansible
-Ajax,hold,languages & frameworks,TRUE,Ajax
-C#,adopt,languages & frameworks,TRUE,C#
-PHP,hold,languages & frameworks,TRUE,PHP
-React Native,assess,languages & frameworks,TRUE,React Native
-PERL,hold,languages & frameworks,TRUE,PERL
-BPMN,adopt,languages & frameworks,TRUE,BPMN
-ECMAScript 2017,assess,languages & frameworks,TRUE,ECMAScript 2017
-UML,adopt,languages & frameworks,TRUE,UML
-GraphQL,assess,languages & frameworks,TRUE,GraphQL
-ERD,adopt,languages & frameworks,TRUE,ERD
-Java,trial,languages & frameworks,TRUE,Java
-Entity Framework,adopt,languages & frameworks,TRUE,Entity Framework
-EF Migrations,adopt,languages & frameworks,TRUE,EF Migrations
-Unit,trial,languages & frameworks,TRUE,Unit
-NodeJS,trial,languages & frameworks,TRUE,NodeJS
-Electron,assess,languages & frameworks,TRUE,Electron
-Puppeteer,assess,languages & frameworks,TRUE,Puppeteer
-nlog,hold,languages & frameworks,TRUE,nlog
-Scrapy,assess,languages & frameworks,TRUE,Scrapy
-OWIN,hold,languages & frameworks,TRUE,OWIN
-Autofac,hold,languages & frameworks,TRUE,Autofac
-Zend Framework,hold,languages & frameworks,TRUE,Zend Framework
-Quartz,hold,languages & frameworks,TRUE,Quartz
-log4net,hold,languages & frameworks,TRUE,log4net
-AutoMapper,adopt,languages & frameworks,TRUE,AutoMapper
-Serilog,adopt,languages & frameworks,TRUE,Serilog
-Ninject,hold,languages & frameworks,TRUE,Ninject
-oAuth,adopt,languages & frameworks,TRUE,oAuth
-Vue.js,assess,languages & frameworks,TRUE,Vue.js
-WebRTC,assess,languages & frameworks,TRUE,WebRTC
-WebSocket,trial,languages & frameworks,TRUE,WebSocket
-TSQL,adopt,languages & frameworks,TRUE,TSQL
-Docker,adopt,platforms,TRUE,Docker
-Docker Compose,adopt,platforms,TRUE,Docker Compose
-Linux,adopt,platforms,TRUE,Linux
-Keycloak,trial,platforms,TRUE,Keycloak
-IdentityServer,assess,platforms,TRUE,IdentityServer
-MS Azure,trial,platforms,TRUE,MS Azure
-Kubernetes,adopt,platforms,TRUE,Kubernetes
-Yandex Cloud,assess,platforms,TRUE,Yandex Cloud
-WPF,hold,platforms,TRUE,WPF
-WinForms,hold,platforms,TRUE,WinForms
-WCF,trial,platforms,TRUE,WCF
-Bootstrap,hold,platforms,TRUE,Bootstrap
-Ant.Design,assess,platforms,TRUE,Ant.Design
-Material.Design,assess,platforms,TRUE,Material.Design
-.NET Core,assess,platforms,TRUE,.NET Core
-APIGee,assess,platforms,TRUE,APIGee
-.NET Framework,adopt,platforms,TRUE,.NET Framework
-Razor,hold,platforms,TRUE,Razor
-ASP.NET MVC,adopt,platforms,TRUE,ASP.NET MVC
-ASP.NET WebForms,adopt,platforms,TRUE,ASP.NET WebForms
-Electron,assess,platforms,TRUE,Electron
-SOAP,adopt,platforms,TRUE,SOAP
-MS CRM,adopt,platforms,TRUE,MS CRM
-Sharepoint,hold,platforms,TRUE,Sharepoint
-MOSASO,hold,platforms,TRUE,MOSASO
-Redis,adopt,platforms,TRUE,Redis
-GeoJSON,hold,platforms,TRUE,GeoJSON
-JSON,adopt,platforms,TRUE,JSON
-protobuf,assess,platforms,TRUE,protobuf
-Cloudinary CDN,adopt,platforms,TRUE,Cloudinary CDN
-OpenShift,hold,platforms,TRUE,OpenShift
-AXAPTA,trial,platforms,TRUE,AXAPTA
-Yandex Map API,adopt,platforms,TRUE,Yandex Map API
-TensorFlow,assess,platforms,TRUE,TensorFlow
-OpenCV,assess,platforms,TRUE,OpenCV
-ZoneMinder,assess,platforms,TRUE,ZoneMinder
-DbGeography,hold,platforms,TRUE,DbGeography
-OData,adopt,platforms,TRUE,OData
+Confluence,Использую,tools,TRUE,Confluence
+Drawit.io,Использую,tools,TRUE,Drawit.io
+Grafana,Изучаю,tools,TRUE,Grafana
+Artifactory,Владею,tools,TRUE,Artifactory
+Nexus,Владею,tools,TRUE,Nexus
+Visio,Владею,tools,TRUE,Visio
+ELK,Владею,tools,TRUE,ELK
+Reporting Service,Забыл,tools,TRUE,Reporting Service
+MongoDb,Владею,tools,TRUE,MongoDb
+jMeter,Владею,tools,TRUE,jMeter
+WireMock,Изучаю,tools,TRUE,WireMock
+Selenium Grid,Забыл,tools,TRUE,Selenium Grid
+Selenuim,Забыл,tools,TRUE,Selenuim
+JIRA,Использую,tools,TRUE,JIRA
+TFS,Использую,tools,TRUE,TFS
+BAMBOO,Забыл,tools,TRUE,BAMBOO
+Vault,Использую,tools,TRUE,Vault
+Postman,Использую,tools,TRUE,Postman
+Let's Encrypt,Владею,tools,TRUE,Let's Encrypt
+Swagger,Использую,tools,TRUE,Swagger
+GitHub,Использую,tools,TRUE,GitHub
+Git,Использую,tools,TRUE,Git
+Rider,Использую,tools,TRUE,Rider
+Visual Studio,Использую,tools,TRUE,Visual Studio
+Dbeaver,Использую,tools,TRUE,Dbeaver
+Miro,Использую,tools,TRUE,Miro
+Webpack,Владею,tools,TRUE,Webpack
+Fedora,Использую,tools,TRUE,Fedora
+Ubuntu,Использую,tools,TRUE,Ubuntu
+Zabbix,Изучаю,tools,TRUE,Zabbix
+Dynatrace,Владею,tools,TRUE,Dynatrace
+Kibana,Использую,tools,TRUE,Kibana
+MySQL,Владею,tools,TRUE,MySQL
+MariaDb,Владею,tools,TRUE,MariaDb
+Oracle,Забыл,tools,TRUE,Oracle
+MS SQL,Использую,tools,TRUE,MS SQL
+LDAP,Владею,tools,TRUE,LDAP
+AD,Владею,tools,TRUE,AD
+CosmosDB,Изучаю,tools,TRUE,CosmosDB
+Debezium,Изучаю,tools,TRUE,Debezium
+CDC,Владею,tools,TRUE,CDC
+PostgreSQL,Использую,tools,TRUE,PostgreSQL
+PgAdmin,Использую,tools,TRUE,PgAdmin
+PgPool,Забыл,tools,TRUE,PgPool
+Nginx,Использую,tools,TRUE,Nginx
+WinCSP,Использую,tools,TRUE,WinCSP
+Wireshark,Владею,tools,TRUE,Wireshark
+IIS,Использую,tools,TRUE,IIS
+ISA Server,Забыл,tools,TRUE,ISA Server
+Camunda,Забыл,tools,TRUE,Camunda
+Failover Clustering,Владею,tools,TRUE,Failover Clustering
+Web API,Использую,languages & frameworks,TRUE,Web API
+Couchbase,Владею,tools,TRUE,Couchbase
+1C-Bitrix,Забыл,languages & frameworks,TRUE,1C-Bitrix
+1C,Забыл,languages & frameworks,TRUE,1C
+BackboneJS,Забыл,languages & frameworks,TRUE,BackboneJS
+HTTP2,Владею,languages & frameworks,TRUE,HTTP2
+React.js,Изучаю,languages & frameworks,TRUE,React.js
+Redux,Изучаю,languages & frameworks,TRUE,Redux
+Spring Framework,Изучаю,languages & frameworks,TRUE,Spring Framework
+Spring Boot,Изучаю,languages & frameworks,TRUE,Spring Boot
+MarionetteJS,Забыл,languages & frameworks,TRUE,MarionetteJS
+IonicFramework,Владею,languages & frameworks,TRUE,IonicFramework
+XML,Владею,languages & frameworks,TRUE,XML
+HTML,Владею,languages & frameworks,TRUE,HTML
+LESS,Забыл,languages & frameworks,TRUE,LESS
+SASS,Забыл,languages & frameworks,TRUE,SASS
+CSS,Владею,languages & frameworks,TRUE,CSS
+AngularJS,Использую,languages & frameworks,TRUE,AngularJS
+JavaScript,Использую,languages & frameworks,TRUE,JavaScript
+ActionScript,Забыл,languages & frameworks,TRUE,ActionScript
+Ansible,Владею,languages & frameworks,TRUE,Ansible
+Ajax,Владею,languages & frameworks,TRUE,Ajax
+C#,Использую,languages & frameworks,TRUE,C#
+PHP,Забыл,languages & frameworks,TRUE,PHP
+React Native,Изучаю,languages & frameworks,TRUE,React Native
+PERL,Забыл,languages & frameworks,TRUE,PERL
+BPMN,Использую,languages & frameworks,TRUE,BPMN
+UML,Использую,languages & frameworks,TRUE,UML
+GraphQL,Изучаю,languages & frameworks,TRUE,GraphQL
+ERD,Использую,languages & frameworks,TRUE,ERD
+Java,Изучаю,languages & frameworks,TRUE,Java
+Entity Framework,Использую,languages & frameworks,TRUE,Entity Framework
+EF Migrations,Использую,languages & frameworks,TRUE,EF Migrations
+Unit,Использую,languages & frameworks,TRUE,Unit
+NodeJS,Изучаю,languages & frameworks,TRUE,NodeJS
+Electron,Владею,languages & frameworks,TRUE,Electron
+Puppeteer,Владею,languages & frameworks,TRUE,Puppeteer
+Scrapy,Забыл,languages & frameworks,TRUE,Scrapy
+OWIN,Владею,languages & frameworks,TRUE,OWIN
+Autofac,Владею,languages & frameworks,TRUE,Autofac
+Zend Framework,Забыл,languages & frameworks,TRUE,Zend Framework
+Quartz,Использую,languages & frameworks,TRUE,Quartz
+AutoMapper,Владею,languages & frameworks,TRUE,AutoMapper
+Serilog,Использую,languages & frameworks,TRUE,Serilog
+Ninject,Забыл,languages & frameworks,TRUE,Ninject
+oAuth,Использую,languages & frameworks,TRUE,oAuth
+Vue.js,Изучаю,languages & frameworks,TRUE,Vue.js
+WebRTC,Использую,languages & frameworks,TRUE,WebRTC
+WebSocket,Использую,languages & frameworks,TRUE,WebSocket
+TSQL,Использую,languages & frameworks,TRUE,TSQL
+Docker,Использую,platforms,TRUE,Docker
+Docker Compose,Использую,platforms,TRUE,Docker Compose
+Linux,Использую,platforms,TRUE,Linux
+Keycloak,Использую,platforms,TRUE,Keycloak
+IdentityServer,Использую,platforms,TRUE,IdentityServer
+MS Azure,Владею,platforms,TRUE,MS Azure
+Kubernetes,Использую,platforms,TRUE,Kubernetes
+Yandex Cloud,Владею,platforms,TRUE,Yandex Cloud
+WPF,Забыл,platforms,TRUE,WPF
+WinForms,Забыл,platforms,TRUE,WinForms
+WCF,Владею,platforms,TRUE,WCF
+Bootstrap,Забыл,platforms,TRUE,Bootstrap
+Ant.Design,Изучаю,platforms,TRUE,Ant.Design
+Material.Design,Изучаю,platforms,TRUE,Material.Design
+.NET Core,Использую,platforms,TRUE,.NET Core
+APIGee,Использую,platforms,TRUE,APIGee
+.NET Framework,Использую,platforms,TRUE,.NET Framework
+Razor,Забыл,platforms,TRUE,Razor
+ASP.NET MVC,Использую,platforms,TRUE,ASP.NET MVC
+ASP.NET WebForms,Использую,platforms,TRUE,ASP.NET WebForms
+SOAP,Использую,platforms,TRUE,SOAP
+MS CRM,Использую,platforms,TRUE,MS CRM
+Sharepoint,Забыл,platforms,TRUE,Sharepoint
+MOSASO,Забыл,platforms,TRUE,MOSASO
+Redis,Использую,platforms,TRUE,Redis
+GeoJSON,Владею,platforms,TRUE,GeoJSON
+JSON,Использую,platforms,TRUE,JSON
+protobuf,Изучаю,platforms,TRUE,protobuf
+Cloudinary CDN,Использую,platforms,TRUE,Cloudinary CDN
+OpenShift,Забыл,platforms,TRUE,OpenShift
+AXAPTA,Владею,platforms,TRUE,AXAPTA
+Yandex Map API,Владею,platforms,TRUE,Yandex Map API
+TensorFlow,Забыл,platforms,TRUE,TensorFlow
+OpenCV,Владею,platforms,TRUE,OpenCV
+ZoneMinder,Использую,platforms,TRUE,ZoneMinder
+DbGeography,Использую,platforms,TRUE,DbGeography
+OData,Использую,platforms,TRUE,OData
+GitFlow,Использую,platforms,TRUE,GitFlow
+TBD,Изучаю,platforms,TRUE,TBD
 TDD,adopt,techniques,TRUE,TDD
-TAP.NET,adopt,techniques,TRUE,TAP.NET
-Threat Modeling,trial,techniques,TRUE,Threat Modeling
-REST,adopt,techniques,TRUE,REST
-Kafka,adopt,techniques,TRUE,Kafka
-Agile,adopt,techniques,TRUE,Agile
-Kanban,adopt,techniques,TRUE,Kanban
-Scrum,adopt,techniques,TRUE,Scrum
-Reactive architectures,assess,techniques,TRUE,Reactive architectures
-Serverless architecture,trial,techniques,TRUE,Serverless architecture
-DevExpress,adopt,techniques,TRUE,DevExpress
-DevExtreme,assess,techniques,TRUE,DevExtreme
-Waterfall,adopt,techniques,TRUE,Waterfall
-gRPC,assess,techniques,TRUE,gRPC
-FTP/SFTP,adopt,techniques,TRUE,FTP/SFTP
-RabbitMQ,adopt,techniques,TRUE,RabbitMQ
-Micro frontends,trial,techniques,TRUE,Micro frontends
-Micro services,adopt,techniques,TRUE,Micro services
-ClickHouse,assess,techniques,TRUE,ClickHouse
-ElasticSearch,assess,techniques,TRUE,ElasticSearch
-CI\CD,adopt,techniques,TRUE,CI\CD
-DWH,assess,techniques,TRUE,DWH
-RMS,assess,techniques,TRUE,RMS
-RDM,assess,techniques,TRUE,RDM
-JMS,assess,techniques,TRUE,JMS
+TAP.NET,Использую,techniques,TRUE,TAP.NET
+Threat Modeling,Использую,techniques,TRUE,Threat Modeling
+REST,Использую,techniques,TRUE,REST
+Kafka,Использую,techniques,TRUE,Kafka
+Agile,Использую,techniques,TRUE,Agile
+Kanban,Использую,techniques,TRUE,Kanban
+Scrum,Использую,techniques,TRUE,Scrum
+Reactive architectures,Изучаю,techniques,TRUE,Reactive architectures
+Serverless architecture,Использую,techniques,TRUE,Serverless architecture
+DevExpress,Использую,techniques,TRUE,DevExpress
+DevExtreme,Владею,techniques,TRUE,DevExtreme
+Waterfall,Владею,techniques,TRUE,Waterfall
+gRPC,Изучаю,techniques,TRUE,gRPC
+FTP/SFTP,Владею,techniques,TRUE,FTP/SFTP
+RabbitMQ,Использую,techniques,TRUE,RabbitMQ
+Micro frontends,Изучаю,techniques,TRUE,Micro frontends
+Micro services,Использую,techniques,TRUE,Micro services
+ClickHouse,Владею,techniques,TRUE,ClickHouse
+ElasticSearch,Использую,techniques,TRUE,ElasticSearch
+CI\CD,Использую,techniques,TRUE,CI\CD
+DWH,Владею,techniques,TRUE,DWH
+RMS,Использую,techniques,TRUE,RMS
+RDM,Использую,techniques,TRUE,RDM
+JMS,Использую,techniques,TRUE,JMS
