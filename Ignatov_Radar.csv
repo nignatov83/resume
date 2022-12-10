@@ -139,7 +139,7 @@ DbGeography,Использую,platforms,TRUE,DbGeography
 OData,Использую,platforms,TRUE,OData
 GitFlow,Использую,platforms,TRUE,GitFlow
 TBD,Изучаю,platforms,TRUE,TBD
-TDD,adopt,techniques,TRUE,TDD
+TDD,Владею,techniques,TRUE,TDD
 TAP.NET,Использую,techniques,TRUE,TAP.NET
 Threat Modeling,Использую,techniques,TRUE,Threat Modeling
 REST,Использую,techniques,TRUE,REST
